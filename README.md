@@ -48,7 +48,7 @@ This is a basic calculator web app made using **HTML**, **CSS**, and **JavaScrip
 ## 👨‍💻 Made By
 
 **Ankit Pal**  
-📩 [Email](work.with.ankitpal@gmail.com)
+📩 [work.with.ankitpal@gmail.com](work.with.ankitpal@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ankit-pal-a7755930a)
 
